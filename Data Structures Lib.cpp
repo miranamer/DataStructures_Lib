@@ -79,7 +79,7 @@ int main() {
     std::cout << "Linked List before reversal: " << linkedList << std::endl;
 
     // Reverse the linked list
-    linkedList.reverseLL(linkedList.head); // does not work!!!
+    linkedList.reverseLL(linkedList.head);
 
     // Print linked list after reversal
     std::cout << "Linked List after reversal: " << linkedList << std::endl;
